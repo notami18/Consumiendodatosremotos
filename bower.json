@@ -15,7 +15,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular-animate": "~1.4.1",
-    "bootstrap": "~3.3.5"
+    "angular-animate": "^1.6.2",
+    "bootstrap": "~3.3.5",
+    "angular": "^1.6.2"
   }
 }
